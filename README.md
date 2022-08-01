@@ -26,8 +26,8 @@
   ## License
   [ISC](https://opensource.org/licenses/ISC)
 
-  ## Tests
-  N/A
+  ## Walk Through Video
+  https://watch.screencastify.com/v/frqNnNH0wmfZq8cECve8
 
   ## Questions
   If you have any questions please contact me using either of these options.
